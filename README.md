@@ -9,4 +9,4 @@
 ---
 
 ## Screenshot
-<img src="screenshot.png">
+<img src="/images/screenshot.png">
